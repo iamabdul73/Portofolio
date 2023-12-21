@@ -1,0 +1,234 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 939px;
+    top: 85px;
+    left: 0;
+    background-image: url(img/bgmain1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .network-PNG {
+    position: absolute;
+    width: 1440px;
+    height: 939px;
+    top: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .element-icon-google {
+    left: 575px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 654px;
+    object-fit: cover;
+  }
+  
+  .desktop .tumblr {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 654px;
+    left: 860px;
+    object-fit: cover;
+  }
+  
+  .desktop .element-icon-whatsapp {
+    left: 668px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 654px;
+    object-fit: cover;
+  }
+  
+  .desktop .linkedin {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 654px;
+    left: 760px;
+    object-fit: cover;
+  }
+  
+  .desktop .instagram {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 654px;
+    left: 475px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 574px;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .FOR-COOPERATION-AND {
+    position: absolute;
+    height: 288px;
+    top: 216px;
+    left: 224px;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .line {
+    position: absolute;
+    width: 16px;
+    height: 286px;
+    top: 183px;
+    left: 712px;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 578px;
+    height: 6px;
+    top: 644px;
+    left: 411px;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 488px;
+    top: 256px;
+    left: 790px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    width: 353px;
+    top: 585px;
+    left: 543px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .instagram-2 {
+    position: absolute;
+    width: 488px;
+    top: 760px;
+    left: 476px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+  }
+  
+  .desktop .home {
+    position: absolute;
+    width: 49px;
+    height: 24px;
+    top: 35px;
+    left: 887px;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .desktop .text-wrapper-3 a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .desktop .experience {
+    position: absolute;
+    width: 49px;
+    height: 24px;
+    top: 35px;
+    left: 980px;
+  }
+
+  .desktop .experience a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .desktop .home-2 {
+    top: 34px;
+    left: 1127px;
+    position: absolute;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .desktop .home-2 a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .desktop .home-3 {
+    top: 34px;
+    left: 1252px;
+    position: absolute;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .desktop .home-3 a{
+    text-decoration: none;
+    color: black;
+  }
+  
